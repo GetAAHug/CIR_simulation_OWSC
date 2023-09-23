@@ -1,0 +1,4 @@
+﻿  mutlti_plot_PathLoss.cpp
+c:\users\1004\desktop\lby\paper\宽光谱\matlabsim\散射信道模型\uv_channel\uv_channel\uv_channel\mutlti_plot_pathloss.cpp(74): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  UV_channel.vcxproj -> C:\Users\1004\Desktop\lby\Paper\宽光谱\MatlabSim\散射信道模型\UV_channel\UV_channel\Debug\UV_channel.exe
+  UV_channel.vcxproj -> C:\Users\1004\Desktop\lby\Paper\宽光谱\MatlabSim\散射信道模型\UV_channel\UV_channel\Debug\UV_channel.pdb (Full PDB)
